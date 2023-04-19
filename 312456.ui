@@ -23,7 +23,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>a</string>
+    <string>а</string>
    </property>
    <attribute name="buttonGroup">
     <string notr="true">buttonGroup_alfabet</string>
@@ -39,7 +39,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>c</string>
+    <string>у</string>
    </property>
    <attribute name="buttonGroup">
     <string notr="true">buttonGroup_alfabet</string>
@@ -55,7 +55,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>b</string>
+    <string>к</string>
    </property>
    <attribute name="buttonGroup">
     <string notr="true">buttonGroup_alfabet</string>
@@ -71,7 +71,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>d</string>
+    <string>б</string>
    </property>
    <attribute name="buttonGroup">
     <string notr="true">buttonGroup_alfabet</string>
@@ -87,7 +87,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>f</string>
+    <string>ф</string>
    </property>
    <attribute name="buttonGroup">
     <string notr="true">buttonGroup_alfabet</string>
@@ -103,7 +103,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>j</string>
+    <string>г</string>
    </property>
    <attribute name="buttonGroup">
     <string notr="true">buttonGroup_alfabet</string>
@@ -119,7 +119,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>e</string>
+    <string>л</string>
    </property>
    <attribute name="buttonGroup">
     <string notr="true">buttonGroup_alfabet</string>
@@ -135,7 +135,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>h</string>
+    <string>м</string>
    </property>
    <attribute name="buttonGroup">
     <string notr="true">buttonGroup_alfabet</string>
@@ -151,7 +151,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>i</string>
+    <string>ц</string>
    </property>
    <attribute name="buttonGroup">
     <string notr="true">buttonGroup_alfabet</string>
@@ -167,7 +167,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>g</string>
+    <string>в</string>
    </property>
    <attribute name="buttonGroup">
     <string notr="true">buttonGroup_alfabet</string>
@@ -183,7 +183,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>q</string>
+    <string>п</string>
    </property>
    <attribute name="buttonGroup">
     <string notr="true">buttonGroup_alfabet</string>
@@ -199,7 +199,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>n</string>
+    <string>о</string>
    </property>
    <attribute name="buttonGroup">
     <string notr="true">buttonGroup_alfabet</string>
@@ -215,7 +215,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>m</string>
+    <string>д</string>
    </property>
    <attribute name="buttonGroup">
     <string notr="true">buttonGroup_alfabet</string>
@@ -231,7 +231,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>l</string>
+    <string>ч</string>
    </property>
    <attribute name="buttonGroup">
     <string notr="true">buttonGroup_alfabet</string>
@@ -247,7 +247,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>k</string>
+    <string>н</string>
    </property>
    <attribute name="buttonGroup">
     <string notr="true">buttonGroup_alfabet</string>
@@ -263,7 +263,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>o</string>
+    <string>ш</string>
    </property>
    <attribute name="buttonGroup">
     <string notr="true">buttonGroup_alfabet</string>
@@ -279,7 +279,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>p</string>
+    <string>е</string>
    </property>
    <attribute name="buttonGroup">
     <string notr="true">buttonGroup_alfabet</string>
@@ -295,7 +295,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>r</string>
+    <string>щ</string>
    </property>
    <attribute name="buttonGroup">
     <string notr="true">buttonGroup_alfabet</string>
@@ -311,7 +311,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>t</string>
+    <string>р</string>
    </property>
    <attribute name="buttonGroup">
     <string notr="true">buttonGroup_alfabet</string>
@@ -327,7 +327,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>u</string>
+    <string>ь</string>
    </property>
    <attribute name="buttonGroup">
     <string notr="true">buttonGroup_alfabet</string>
@@ -343,7 +343,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>v</string>
+    <string>з</string>
    </property>
    <attribute name="buttonGroup">
     <string notr="true">buttonGroup_alfabet</string>
@@ -359,7 +359,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>w</string>
+    <string>с</string>
    </property>
    <attribute name="buttonGroup">
     <string notr="true">buttonGroup_alfabet</string>
@@ -375,7 +375,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>x</string>
+    <string>ы</string>
    </property>
    <attribute name="buttonGroup">
     <string notr="true">buttonGroup_alfabet</string>
@@ -391,7 +391,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>y</string>
+    <string>и</string>
    </property>
    <attribute name="buttonGroup">
     <string notr="true">buttonGroup_alfabet</string>
@@ -407,7 +407,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>z</string>
+    <string>т</string>
    </property>
    <attribute name="buttonGroup">
     <string notr="true">buttonGroup_alfabet</string>
@@ -451,7 +451,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>s</string>
+    <string>ж</string>
    </property>
   </widget>
   <widget class="QPushButton" name="button_probel">
@@ -459,12 +459,12 @@
     <rect>
      <x>680</x>
      <y>80</y>
-     <width>75</width>
+     <width>91</width>
      <height>23</height>
     </rect>
    </property>
    <property name="text">
-    <string> </string>
+    <string>ьтвердыйзнак</string>
    </property>
   </widget>
   <widget class="QPushButton" name="button_clearback">
@@ -478,6 +478,58 @@
    </property>
    <property name="text">
     <string>&gt;backspace</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_27">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>110</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>ы</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_28">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>110</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>э</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_29">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>110</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>ю</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_30">
+   <property name="geometry">
+    <rect>
+     <x>280</x>
+     <y>110</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>я</string>
    </property>
   </widget>
  </widget>
