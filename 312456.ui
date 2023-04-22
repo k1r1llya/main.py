@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>782</width>
+    <width>779</width>
     <height>354</height>
    </rect>
   </property>
@@ -466,6 +466,9 @@
    <property name="text">
     <string>ьтвердыйзнак</string>
    </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup_alfabet</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="button_clearback">
    <property name="geometry">
@@ -492,6 +495,9 @@
    <property name="text">
     <string>ы</string>
    </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup_alfabet</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="pushButton_28">
    <property name="geometry">
@@ -505,6 +511,9 @@
    <property name="text">
     <string>э</string>
    </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup_alfabet</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="pushButton_29">
    <property name="geometry">
@@ -518,6 +527,9 @@
    <property name="text">
     <string>ю</string>
    </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup_alfabet</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="pushButton_30">
    <property name="geometry">
@@ -531,6 +543,9 @@
    <property name="text">
     <string>я</string>
    </property>
+   <attribute name="buttonGroup">
+    <string notr="true">buttonGroup_alfabet</string>
+   </attribute>
   </widget>
  </widget>
  <resources/>
